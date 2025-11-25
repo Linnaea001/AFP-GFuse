@@ -1,0 +1,2 @@
+total_inference_time (s),avg_inference_time_per_batch (s),avg_inference_time_per_sample (s),gpu_memory_allocated (MB),gpu_memory_reserved (MB),cpu_memory (MB)
+0.3960850238800049,0.019804251194000245,0.0006429951686363715,194.8837890625,400.0,2710.57421875
